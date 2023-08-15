@@ -459,6 +459,7 @@ button:hover {
   font-size: 14px;
   font-weight: 400;
   opacity: 0.671;
+  outline: none;
 }
 
 .subscription__button {
