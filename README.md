@@ -1,1 +1,2 @@
-# store-landing-page-example-1
+# online store landing page example
+## technologies used: html5 css3
